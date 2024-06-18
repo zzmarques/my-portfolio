@@ -39,7 +39,46 @@ const projects = {
                 <a href="https://github.com/zzmarques/card" target="_blank">Acessar repositório</a>
             </div>
         </div>
+        `,
+    sneakers:
+            `
+        <div class="info-pro">
+            <h2>Sneakers</h2>
+            <p>
+                Este projeto é uma página de e-commerce totalmente funcional utilizando HTML5, CSS3 e JavaScript. Esta página é responsiva, adaptando-se perfeitamente tanto a dispositivos móveis quanto a desktops. 
+            </p>
+            <ul>
+                <li>Os usuários podem adicionar ou remover item do carrinho</li>
+                <li>Ppção de escolher a quantidade desejada de produto que desejam comprar.</li>
+                <li> Implementei um sistema onde os usuários podem clicar para ver mais fotos do produto</li>
+                <li>Responsivo para mobile e desktop</li> 
+            </ul>
+            </div>
+        <div class="links">
+            <div class="btn"><a href="https://zzmarques.github.io/projeto-sneakers/" target="_blank">Acessar projeto</a></div>
+
+            <div class="btn"><a href="https://github.com/zzmarques/projeto-sneakers" target="_blank">Acessar repositório</a></div>
+        </div> 
+        `,
+    fylo:
         `
+        <div class="info-pro">
+            <h2>Fylo</h2>
+            <p>
+                Este projeto consiste no desenvolvimento de uma landing page totalmente do zero, utilizando as tecnologias HTML5, CSS3 e JavaScript. A página foi projetada com um design responsivo, garantindo uma ótima experiência tanto em desktops quanto em dispositivos móveis.
+            </p>
+            <ul>
+                <li> implementei uma validação de formulário para garantir que o campo de e-mail seja preenchido corretamente antes de enviar os dados</li>
+                <li>Responsivo para mobile e desktop</li> 
+                 
+            </ul>
+            </div>
+        <div class="links">
+            <div class="btn"><a href="https://zzmarques.github.io/fylo-landing-page/" target="_blank">Acessar projeto</a></div>
+
+            <div class="btn"><a href="https://github.com/zzmarques/fylo-landing-page" target="_blank">Acessar repositório</a></div>
+        </div> 
+        `,
 
 }
 

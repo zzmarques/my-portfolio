@@ -94,6 +94,14 @@ const openInfoProject = (description) => {
             document.body.style.overflow = 'hidden'
             divProject.insertAdjacentHTML('beforeend', projects.card) 
             divProject.style.display = 'flex'
+        } else if(btn.id === 'meu-id3') {
+            document.body.style.overflow = 'hidden'
+            divProject.insertAdjacentHTML('beforeend', projects.sneakers) 
+            divProject.style.display = 'flex'
+        } else if(btn.id === 'meu-id4') {
+            document.body.style.overflow = 'hidden'
+            divProject.insertAdjacentHTML('beforeend', projects.fylo) 
+            divProject.style.display = 'flex'
         } else {
             return
         }
