@@ -55,6 +55,10 @@
     main {
        flex-direction: column;
     }
+
+    .text-main {
+        width: 360px;
+    }
     .text-main h1, h2 {
         font-size: 2em;
     }
@@ -69,7 +73,7 @@
     .main-img img{
         bottom: 50px;
         left: 20px;
-        width: 400px;
+        width: 330px;
         height: 420px;
     }
 
