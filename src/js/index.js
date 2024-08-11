@@ -82,7 +82,6 @@ const openInfoProject = (description) => {
    const btn = description.querySelector('span')
    const divProject = document.querySelector('.sobre-projct')
    const btnClose = document.querySelector('#close')
-           
 
    const showInfo = (btn) => {
     
@@ -160,5 +159,6 @@ const animateScroll = () => {
 }
 
 animateScroll()
+
 
 
