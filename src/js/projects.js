@@ -1,4 +1,5 @@
 const projects = {
+
     calc: 
         `
         <div class="info-pro">
@@ -12,10 +13,11 @@ const projects = {
             </ul>
             </div>
         <div class="links">
-            <div class="btn"><a href="https://zzmarques.github.io/calculadora/" target="_blank">Acessar projeto</a></div>
+            <div class="btn"><a href="https://calculadora-walacedev.netlify.app/" target="_blank">Acessar projeto</a></div>
             <div class="btn"><a href="https://github.com/zzmarques/calculadora" target="_blank">Acessar repositório</a></div>
         </div> 
         `,
+
     card:
         ` 
         <div class="info-pro">
@@ -40,6 +42,7 @@ const projects = {
             </div>
         </div>
         `,
+
     sneakers:
             `
         <div class="info-pro">
@@ -55,11 +58,12 @@ const projects = {
             </ul>
             </div>
         <div class="links">
-            <div class="btn"><a href="https://zzmarques.github.io/projeto-sneakers/" target="_blank">Acessar projeto</a></div>
+            <div class="btn"><a href="https://sneakers-walacedev.netlify.app/" target="_blank">Acessar projeto</a></div>
 
             <div class="btn"><a href="https://github.com/zzmarques/projeto-sneakers" target="_blank">Acessar repositório</a></div>
         </div> 
         `,
+
     fylo:
         `
         <div class="info-pro">
@@ -74,9 +78,64 @@ const projects = {
             </ul>
             </div>
         <div class="links">
-            <div class="btn"><a href="https://zzmarques.github.io/fylo-landing-page/" target="_blank">Acessar projeto</a></div>
+            <div class="btn"><a href="https://fylo-walacedev.netlify.app/" target="_blank">Acessar projeto</a></div>
 
             <div class="btn"><a href="https://github.com/zzmarques/fylo-landing-page" target="_blank">Acessar repositório</a></div>
+        </div> 
+        `,
+
+    space: 
+        `
+        <div class="info-pro">
+            <h2>Space Tourism</h2>
+            <p>
+               
+            </p>
+            <ul>
+                <li></li>
+                <li>Responsivo para mobile e desktop</li> 
+            </ul>
+        </div>
+        <div class="links">
+            <div class="btn"><a href="https://space-tourism-walacedev.netlify.app/" target="_blank">Acessar projeto</a></div>
+
+            <div class="btn"><a href="https://github.com/zzmarques/space-tourism" target="_blank">Acessar repositório</a></div>
+        </div> 
+        `,
+    bank:
+        `
+        <div class="info-pro">
+            <h2>Bank</h2>
+            <p>
+               
+            </p>
+            <ul>
+                <li></li>
+                <li>Responsivo para mobile e desktop</li> 
+            </ul>
+        </div>
+        <div class="links">
+            <div class="btn"><a href="https://bank-walacedev.netlify.app/#" target="_blank">Acessar projeto</a></div>
+
+            <div class="btn"><a href="https://github.com/zzmarques/bank-landing-page" target="_blank">Acessar repositório</a></div>
+        </div> 
+        `,
+    advice:
+        `
+        <div class="info-pro">
+            <h2>Advice</h2>
+            <p>
+               
+            </p>
+            <ul>
+                <li></li>
+                <li>Responsivo para mobile e desktop</li> 
+            </ul>
+        </div>
+        <div class="links">
+            <div class="btn"><a href="https://advice-walacedev.netlify.app/" target="_blank">Acessar projeto</a></div>
+
+            <div class="btn"><a href="https://github.com/zzmarques/advice" target="_blank">Acessar repositório</a></div>
         </div> 
         `,
 
