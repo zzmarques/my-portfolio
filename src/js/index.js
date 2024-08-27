@@ -87,11 +87,11 @@ const openInfoProject = (description) => {
     
         if(btn.id === 'meu-id1' ) {
             document.body.style.overflow = 'hidden'
-            divProject.insertAdjacentHTML('beforeend', projects.calc) 
+            divProject.insertAdjacentHTML('beforeend', projects.space) 
             divProject.style.display = 'flex'
         }else if(btn.id === 'meu-id2') {
             document.body.style.overflow = 'hidden'
-            divProject.insertAdjacentHTML('beforeend', projects.card) 
+            divProject.insertAdjacentHTML('beforeend', projects.advice) 
             divProject.style.display = 'flex'
         } else if(btn.id === 'meu-id3') {
             document.body.style.overflow = 'hidden'
@@ -99,13 +99,25 @@ const openInfoProject = (description) => {
             divProject.style.display = 'flex'
         } else if(btn.id === 'meu-id4') {
             document.body.style.overflow = 'hidden'
+            divProject.insertAdjacentHTML('beforeend', projects.calc) 
+            divProject.style.display = 'flex'
+        } else if (btn.id === 'meu-id5') {
+            document.body.style.overflow = 'hidden'
+            divProject.insertAdjacentHTML('beforeend', projects.bank) 
+            divProject.style.display = 'flex'
+        } else if (btn.id === 'meu-id6') {
+            document.body.style.overflow = 'hidden'
             divProject.insertAdjacentHTML('beforeend', projects.fylo) 
+            divProject.style.display = 'flex'
+        } else if (btn.id === 'meu-id7') {
+            document.body.style.overflow = 'hidden'
+            divProject.insertAdjacentHTML('beforeend', projects.card) 
             divProject.style.display = 'flex'
         } else {
             return
         }
-        
-   }
+  
+    }
 
    const choseInfo = () => {
         const infoProject = document.querySelector('.info-pro')
