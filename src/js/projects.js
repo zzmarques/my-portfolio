@@ -89,11 +89,12 @@ const projects = {
         <div class="info-pro">
             <h2>Space Tourism</h2>
             <p>
+                Este projeto é um site de turismo espacial desenvolvido com React.js, projetado para oferecer uma experiência envolvente e educativa sobre viagens interplanetárias. O site abrange uma variedade de informações fascinantes, desde detalhes sobre planetas até dados sobre a tripulação e lançamentos de naves espaciais.
                
             </p>
             <ul>
-                <li></li>
-                <li>Responsivo para mobile e desktop</li> 
+                <li>Tecnologias Utilizadas: React.js, CSS3</li>
+                <li>Design Responsivo: O site foi cuidadosamente projetado para ser completamente responsivo, garantindo uma experiência de navegação consistente e agradável em todos os dispositivos, desde smartphones e tablets até desktops</li> 
             </ul>
         </div>
         <div class="links">
@@ -107,11 +108,10 @@ const projects = {
         <div class="info-pro">
             <h2>Bank</h2>
             <p>
-               
+               Este projeto é uma landing page moderna e dinâmica, desenvolvida com HTML, CSS, e JavaScript. A página inclui todo o conteúdo necessário para apresentar informações de forma eficaz e atraente, complementada por um menu hambúrguer interativo que melhora a navegação, especialmente em dispositivos móveis. O uso de JavaScript permite a criação de um menu hambúrguer que se expande e recolhe com um simples toque ou clique, tornando a navegação intuitiva e acessível em qualquer dispositivo. O design foi cuidadosamente pensado para ser totalmente responsivo, garantindo que a página se adapte perfeitamente a diferentes tamanhos de tela, desde smartphones até desktops.
             </p>
             <ul>
-                <li></li>
-                <li>Responsivo para mobile e desktop</li> 
+                <li>Design Responsivo: Mobile e desktop</li> 
             </ul>
         </div>
         <div class="links">
@@ -125,11 +125,11 @@ const projects = {
         <div class="info-pro">
             <h2>Advice</h2>
             <p>
+                Este projeto é um aplicativo gerador de conselhos desenvolvido para praticar o consumo de APIs de terceiros. Utilizando a API Advice Slip, o aplicativo oferece conselhos aleatórios ao usuário com um simples clique. O design do projeto foi mantido propositalmente simples e intuitivo, utilizando HTML, CSS, e JavaScript. Isso torna o aplicativo fácil de usar em qualquer dispositivo, desde computadores de mesa até smartphones, garantindo uma experiência totalmente responsiva.
                
             </p>
             <ul>
-                <li></li>
-                <li>Responsivo para mobile e desktop</li> 
+                <li>Design Responsivo: Mobile e desktop</li> 
             </ul>
         </div>
         <div class="links">
