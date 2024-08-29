@@ -100,7 +100,7 @@ const projects = {
         <div class="links">
             <div class="btn"><a href="https://space-tourism-walacedev.netlify.app/" target="_blank">Acessar projeto</a></div>
 
-            <div class="btn"><a href="https://github.com/zzmarques/space-tourism" target="_blank">Acessar repositório</a></div>
+            <div class="btn"><a href="https://github.com/zzmarques/tourism-space" target="_blank">Acessar repositório</a></div>
         </div> 
         `,
     bank:
