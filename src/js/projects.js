@@ -138,7 +138,26 @@ const projects = {
             <div class="btn"><a href="https://github.com/zzmarques/advice" target="_blank">Acessar repositório</a></div>
         </div> 
         `,
+    countries:
+        `
+        <div class="info-pro">
+            <h2>Countries</h2>
+            <p>
+               Desenvolvido em React.js, este projeto utiliza a API REST Countries para exibir informações detalhadas sobre diversos países. Os usuários podem pesquisar por um país específico, filtrar por região e, ao clicar no card de um país, são direcionados a uma página separada com mais informações detalhadas sobre o país selecionado. Totalmente responsivo para dispositivos móveis e desktops, a aplicação também oferece um alternador de tema de cores para personalizar a experiência de navegação. O projeto foi desenvolvido do zero, focando na usabilidade e eficiência.
+            </p>
+            <ul>
+                <li>Design Responsivo: Mobile e desktop.</li> 
+                <li>Alterar o tema de cores: Alternador de tema que permite trocar entre diferentes esquemas de cores.</li> 
+                <li>Filtrar por região: Opção de filtragem para visualizar países de regiões específicas.</li> 
+                <li>Clicar no card para mais informações: Ao clicar no card de um país, o usuário é redirecionado para uma página com mais detalhes sobre o país selecionado.</li> 
+            </ul>
+        </div>
+        <div class="links">
+            <div class="btn"><a href="https://countries-walacedev.netlify.app/" target="_blank">Acessar projeto</a></div>
 
+            <div class="btn"><a href="https://github.com/zzmarques/countries" target="_blank">Acessar repositório</a></div>
+        </div> 
+    `
 }
 
 export { projects }

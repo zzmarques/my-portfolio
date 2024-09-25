@@ -113,6 +113,10 @@ const openInfoProject = (description) => {
             document.body.style.overflow = 'hidden'
             divProject.insertAdjacentHTML('beforeend', projects.card) 
             divProject.style.display = 'flex'
+        } else if (btn.id === 'meu-id8'){
+            document.body.style.overflow = 'hidden'
+            divProject.insertAdjacentHTML('beforeend', projects.countries) 
+            divProject.style.display = 'flex'
         } else {
             return
         }
