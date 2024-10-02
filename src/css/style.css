@@ -455,11 +455,6 @@ main {
   transition: all 1s;
 }
 
-#particles-js {
-  position: fixed;
-  width: 100%;
-  height: 100%;
-}
 
 
 
