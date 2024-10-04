@@ -157,6 +157,26 @@ const projects = {
 
             <div class="btn"><a href="https://github.com/zzmarques/countries" target="_blank">Acessar repositório</a></div>
         </div> 
+    `,
+    jokenpo: 
+        `
+        <div class="info-pro">
+            <h2>Jokenpô</h2>
+            <p>
+              Este jogo de Jokenpô foi desenvolvido com HTML, CSS e JavaScript, utilizando JavaScript puro para implementar toda a lógica do game. O projeto segue o conceito mobile first, garantindo uma ótima experiência em dispositivos móveis e é responsivo, se adaptando a qualquer tipo de tela.O jogo inclui um placar dinâmico, que ajusta os pontos de acordo com vitórias ou derrotas, e um botão de regras para orientar os usuários sobre como jogar.
+            </p>
+            <ul>
+                <li>Design Responsivo: Mobile e desktop.</li> 
+                <li>Botão de regras: Exibe as instruções sobre como jogar Jokenpô.</li> 
+                <li>Placar dinâmico: Pontuações aumentam a cada vitória e diminuem a cada derrota.</li> 
+                <li>Mobile first: Design focado primeiro em dispositivos móveis, com adaptação para outras resoluções.</li> 
+            </ul>
+        </div>
+        <div class="links">
+            <div class="btn"><a href="https://jokenpo-walacemarqdev.netlify.app/" target="_blank">Acessar projeto</a></div>
+
+            <div class="btn"><a href="https://github.com/zzmarques/jokenpo" target="_blank">Acessar repositório</a></div>
+        </div> 
     `
 }
 
