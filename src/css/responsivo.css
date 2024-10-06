@@ -127,9 +127,9 @@
     }
 
     .card-projt {
-        grid-template-columns: auto auto;
+        flex-flow: row wrap;
+        gap: 0;
         width: 450px;
-        row-gap: 10px;
     }
 
 
@@ -144,20 +144,20 @@
 
     .info-card i {
         font-size: 1.1em;
-       
-      }
+    }
 
     .projt img {
         width: 210px;
     }
 
-    #meu-id9 {
-        display: none;
+    .cont {
+        height: auto;
     }
 
     .cont-info {
-        flex-wrap: wrap;
-    
+        flex-flow: row wrap;
+        row-gap: 40px;
+        margin: 50px 0;
     }
     
     .card-cont {
@@ -224,6 +224,16 @@
     }
     .about-info img{
        width: 300px;
+    }
+
+    .hab {
+        height: 100%;
+        margin: 80px 0;
+    }
+        
+
+    .hab-info {
+        gap: 0px;
     }
 
     .hab p {
