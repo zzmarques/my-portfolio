@@ -95,25 +95,29 @@ const openInfoProject = (description) => {
             divProject.style.display = 'flex'
         } else if (btn.id === 'meu-id3') {
             document.body.style.overflow = 'hidden'
-            divProject.insertAdjacentHTML('beforeend', projects.advice)
+            divProject.insertAdjacentHTML('beforeend', projects.room)
             divProject.style.display = 'flex'
         } else if (btn.id === 'meu-id4') {
             document.body.style.overflow = 'hidden'
-            divProject.insertAdjacentHTML('beforeend', projects.jokenpo)
+            divProject.insertAdjacentHTML('beforeend', projects.advice)
             divProject.style.display = 'flex'
         } else if (btn.id === 'meu-id5') {
             document.body.style.overflow = 'hidden'
-            divProject.insertAdjacentHTML('beforeend', projects.sneakers)
+            divProject.insertAdjacentHTML('beforeend', projects.jokenpo)
             divProject.style.display = 'flex'
         } else if (btn.id === 'meu-id6') {
             document.body.style.overflow = 'hidden'
-            divProject.insertAdjacentHTML('beforeend', projects.calc)
+            divProject.insertAdjacentHTML('beforeend', projects.sneakers)
             divProject.style.display = 'flex'
         } else if (btn.id === 'meu-id7') {
             document.body.style.overflow = 'hidden'
-            divProject.insertAdjacentHTML('beforeend', projects.bank)
+            divProject.insertAdjacentHTML('beforeend', projects.calc)
             divProject.style.display = 'flex'
         } else if (btn.id === 'meu-id8') {
+            document.body.style.overflow = 'hidden'
+            divProject.insertAdjacentHTML('beforeend', projects.bank)
+            divProject.style.display = 'flex'
+        } else if (btn.id === 'meu-id9') {
             document.body.style.overflow = 'hidden'
             divProject.insertAdjacentHTML('beforeend', projects.fylo)
             divProject.style.display = 'flex'

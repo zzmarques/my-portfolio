@@ -177,6 +177,26 @@ const projects = {
 
             <div class="btn"><a href="https://github.com/zzmarques/jokenpo" target="_blank">Acessar repositório</a></div>
         </div> 
+    `,
+    room: 
+        `
+        <div class="info-pro">
+            <h2>Room</h2>
+            <p>
+                Este projeto é uma homepage responsiva e dinâmica, criada com HTML5, CSS3, JavaScript e Sass, com foco em mobile first para garantir uma experiência de uso otimizada em dispositivos móveis e desktops. A interface conta com um sistema de navegação interativo, onde o usuário pode trocar o conteúdo da página usando botões de "próximo" e "anterior". Esse recurso foi implementado em JavaScript, proporcionando transições suaves e uma navegação intuitiva. Além disso, o uso do Sass possibilitou um código CSS mais modular e eficiente, facilitando a manutenção e futura expansão do projeto.
+            </p>
+            <ul>
+                <li>Design Responsivo: Mobile e desktop.</li> 
+                <li>Sistema de navegação de conteúdo: Implementação de botões "próximo" e "anterior" que permitem ao usuário alternar o conteúdo de forma dinâmica e sem recarregar a página.</li> 
+                <li>Desenvolvimento mobile first: Estruturação e estilização priorizando a experiência de uso em dispositivos móveis, garantindo uma navegação fluida e intuitiva desde o início.</li> 
+                <li>Mobile first: Design focado primeiro em dispositivos móveis, com adaptação para outras resoluções.</li> 
+            </ul>
+        </div>
+        <div class="links">
+            <div class="btn"><a href="https://room-walacedev.netlify.app/" target="_blank">Acessar projeto</a></div>
+
+            <div class="btn"><a href="https://github.com/zzmarques/room" target="_blank">Acessar repositório</a></div>
+        </div> 
     `
 }
 
