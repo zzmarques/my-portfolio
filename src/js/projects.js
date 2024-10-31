@@ -188,7 +188,6 @@ const projects = {
             <ul>
                 <li>Design Responsivo: Mobile e desktop.</li> 
                 <li>Sistema de navegação de conteúdo: Implementação de botões "próximo" e "anterior" que permitem ao usuário alternar o conteúdo de forma dinâmica e sem recarregar a página.</li> 
-                <li>Desenvolvimento mobile first: Estruturação e estilização priorizando a experiência de uso em dispositivos móveis, garantindo uma navegação fluida e intuitiva desde o início.</li> 
                 <li>Mobile first: Design focado primeiro em dispositivos móveis, com adaptação para outras resoluções.</li> 
             </ul>
         </div>

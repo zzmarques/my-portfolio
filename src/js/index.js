@@ -1,19 +1,20 @@
-import { projects } from "./projects.js"
+import { projects } from "./projects.js";
 
 const openMenu = () => {
     const btnOpen = document.querySelector('.fa-bars');
     const btnClose = document.querySelector('.fa-xmark');
     const navBar = document.getElementById('nav');
     const links = document.querySelectorAll('#nav a');
-    const header = document.querySelector('header')
+    const header = document.querySelector('header');
 
     const open = () => {
         navBar.style.display = 'flex';
         btnOpen.style.display = 'none';
         btnClose.style.display = 'block';
-        document.querySelector('main').style.filter = 'brightness(40%)'
-        header.classList.remove('hidden')
-        header.classList.remove('show')
+        document.querySelector('main').style.filter = 'brightness(40%)';
+        document.querySelector('body').style.overflow = 'hidden'
+        header.classList.remove('hidden');
+        header.classList.remove('show');
 
     }
 
@@ -21,9 +22,10 @@ const openMenu = () => {
         navBar.style.display = 'none';
         btnOpen.style.display = 'block';
         btnClose.style.display = 'none';
-        document.querySelector('main').style.filter = 'brightness(100%)'
-        header.classList.add('hidden')
-        header.classList.add('show')
+        document.querySelector('main').style.filter = 'brightness(100%)';
+        document.querySelector('body').style.overflow = 'auto'
+        header.classList.add('hidden');
+        header.classList.add('show');
 
     }
 
