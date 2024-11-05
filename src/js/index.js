@@ -121,7 +121,7 @@ const openInfoProject = (description) => {
             divProject.style.display = 'flex'
         } else if (btn.id === 'meu-id9') {
             document.body.style.overflow = 'hidden'
-            divProject.insertAdjacentHTML('beforeend', projects.fylo)
+            divProject.insertAdjacentHTML('beforeend', projects.intro)
             divProject.style.display = 'flex'
         } else {
             return

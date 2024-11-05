@@ -64,23 +64,24 @@ const projects = {
         </div> 
         `,
 
-    fylo:
+        intro:
         `
         <div class="info-pro">
-            <h2>Fylo</h2>
+            <h2>Intro Section</h2>
             <p>
-                Este projeto consiste no desenvolvimento de uma landing page totalmente do zero, utilizando as tecnologias HTML5, CSS3 e JavaScript. A página foi projetada com um design responsivo, garantindo uma ótima experiência tanto em desktops quanto em dispositivos móveis.
+                Este projeto é uma página de introdução com um menu de navegação suspenso, desenvolvida utilizando HTML5, CSS3, Sass e JavaScript. O foco principal foi criar um menu intuitivo e funcional, que permite ao usuário navegar de maneira fluida, com o menu aparecendo e desaparecendo conforme a necessidade, dando destaque ao conteúdo da página. A construção foi orientada pelo conceito mobile first, priorizando a experiência em dispositivos móveis e garantindo que o design e a usabilidade fossem eficientes e adaptáveis a todas as resoluções de tela. Esse método possibilitou que o layout fosse otimizado para smartphones e tablets, com ajustes posteriores para telas maiores, resultando em uma experiência coesa e responsiva. A utilização de Sass também foi essencial para organizar o código CSS, facilitando a manutenção e reutilização dos estilos, o que contribuiu para um desenvolvimento mais ágil e estruturado
             </p>
             <ul>
-                <li> implementei uma validação de formulário para garantir que o campo de e-mail seja preenchido corretamente antes de enviar os dados</li>
-                <li>Responsivo para mobile e desktop</li> 
+                <li>Menu Suspenso: Aparece e desaparece conforme a interação do usuário.</li>
+                <li>Mobile First: Design focado primeiro em dispositivos móveis, com adaptação para telas maiores.</li> 
+                <li>Design Responsivo: Totalmente adaptado para dispositivos móveis e desktops.</li> 
                  
             </ul>
             </div>
         <div class="links">
-            <div class="btn"><a href="https://fylo-walacedev.netlify.app/" target="_blank">Acessar projeto</a></div>
+            <div class="btn"><a href="https://intro-section-walacedev.netlify.app/" target="_blank">Acessar projeto</a></div>
 
-            <div class="btn"><a href="https://github.com/zzmarques/fylo-landing-page" target="_blank">Acessar repositório</a></div>
+            <div class="btn"><a href="https://github.com/zzmarques/intro-section" target="_blank">Acessar repositório</a></div>
         </div> 
         `,
 
